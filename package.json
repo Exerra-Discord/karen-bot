@@ -33,7 +33,7 @@
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "nanospinner": "^1.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-spotify-api": "^1.1.1",
     "nsfai": "^2.0.0",
     "qrcode": "^1.4.4",
