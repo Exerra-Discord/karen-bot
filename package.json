@@ -22,7 +22,7 @@
     "discord-reply": "^0.1.2",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg-static": "^4.2.7",
     "figlet": "^1.5.2",
     "hastebin-gen": "^2.0.5",
