@@ -30,7 +30,7 @@
     "lyrics-parse": "^1.1.0",
     "minecraft-server-util": "^3.6.0",
     "mkdirp": "^1.0.4",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "nanospinner": "^1.0.0",
     "node-fetch": "^2.6.1",
